@@ -1,0 +1,38 @@
+.button{
+
+padding-right: 100px;
+
+}
+
+.body {
+    background: url(../pages/Imagen/Imagen12.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+    background-position: center;
+    padding: 80px;
+    width: 200vw;
+    margin-left: 210px;
+            
+    
+  }
+
+.div {
+
+  background: url(../pages/Imagen/ImagenFondo.jpeg);
+  padding-left: 30px;
+
+
+}
+  
+.formulario form {
+  
+  text-align: left;
+  margin-left: 40px;
+  padding: 30px;
+  font-size: 1em;
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  
+  
+  }

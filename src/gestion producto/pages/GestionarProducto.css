@@ -1,0 +1,15 @@
+.Container {
+    margin-left: 40px;
+    padding: 70px;
+    background: url(../pages/Imagen/Imagen11.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+    background-position: center;
+          
+}
+.BotonProducto {
+
+margin-right: 100px;
+
+}

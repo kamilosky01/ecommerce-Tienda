@@ -1,0 +1,15 @@
+.Container {
+
+    margin-left: 40px;
+    padding: 50px;
+    padding: 70px;
+    background: url(../pages/Imagenes/Imagen11.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+    background-position: center;
+              
+}
+
+  
+  
